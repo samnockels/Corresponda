@@ -1,0 +1,9 @@
+#corresponda_main_heading{
+    background-color: #3c7fff; 
+}
+.wp-admin select{
+    height: 40px !important
+}
+#edit_widget_dropdown{
+    box-shadow: 0 0 20px 0px #ececec;
+}
